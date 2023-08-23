@@ -1,3 +1,5 @@
+library(stringr)
+suppressPackageStartupMessages(library(Biostrings, pos = "package:base"))
 calculatepattern <- function(file_fasta, type_pattern)
     # a function to calculate certain patterns in long reads
     # using the stringr package. This function can be run in 
