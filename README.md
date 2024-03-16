@@ -1,7 +1,9 @@
 # pacbio_nanopore_string_patterns
-A implication of stringr package to calculate the pattern detection in R using the stringR package for the pacbio and the oxford nanopore reads. a function to calculate certain patterns in long reads using the stringr package. This function can be run in parallel using the library(parallel) in R. It gives the count of the occurences which can be easily plotted in R \
+A implication of stringr package to calculate the pattern detection in R using the stringR package for the pacbio and the oxford nanopore reads. a function to calculate certain patterns in long reads using the stringr package. This function can be run in parallel using the library(parallel) in R. It gives the count of the occurences which can be easily plotted in R.
+
 Gaurav Sablok \
-ORCID: https://orcid.org/0000-0002-4157-9405 \
-WOS: https://www.webofscience.com/wos/author/record/C-5940-2014 \
-RubyGems Published: https://rubygems.org/profiles/sablokgaurav \
-Python Packages Published : https://pypi.org/user/sablokgaurav/
+Academic Staff Member \
+Bioinformatics \
+Institute for Biochemistry and Biology \
+University of Potsdam \
+Potsdam,Germany
