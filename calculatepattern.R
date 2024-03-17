@@ -1,3 +1,7 @@
+#!/usr/bin/R
+# Universitat Potsdam
+# Author Gaurav Sablok
+# date: 2024-3-17
 library(stringr)
 suppressPackageStartupMessages(library(Biostrings, pos = "package:base"))
 calculatepattern <- function(file_fasta, type_pattern)
